@@ -1,0 +1,4816 @@
+[
+  {
+    "id": "albert-park",
+    "name": "Albert Park",
+    "region": "Southern Metropolitan",
+    "candidates": [
+      {
+        "name": "DRAGWIDGE, Georgie",
+        "party": "Independent",
+        "position": 1
+      },
+      {
+        "name": "SEMMENS, Sonya",
+        "party": "Australian Greens Victoria",
+        "position": 2
+      },
+      {
+        "name": "COOK, Andrew",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 3
+      },
+      {
+        "name": "TAYLOR, Nina",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 4
+      },
+      {
+        "name": "KING, Adrian William",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "LINDRUM, Tam",
+        "party": "One Nation Victoria",
+        "position": 6
+      },
+      {
+        "name": "BOLGER, Colleen",
+        "party": "Victorian Socialists",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 61.150600869342895,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/albert-park-district-results",
+      "winner": "TAYLOR, Nina",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "ashwood",
+    "name": "Ashwood",
+    "region": "Southern Metropolitan",
+    "candidates": [
+      {
+        "name": "UWIMANA, Enid",
+        "party": "Family First Victoria",
+        "position": 1
+      },
+      {
+        "name": "RANDALL, Tim",
+        "party": "Australian Greens Victoria",
+        "position": 2
+      },
+      {
+        "name": "FREGON, Matt",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 3
+      },
+      {
+        "name": "VAN DER EYNDEN, Jacob",
+        "party": "Victorian Socialists",
+        "position": 4
+      },
+      {
+        "name": "ZOGRAPHOS, Theo",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 5
+      },
+      {
+        "name": "JOSHI, Hitendra K.",
+        "party": "Independent",
+        "position": 6
+      },
+      {
+        "name": "MITCHELL, Steven",
+        "party": "One Nation Victoria",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 56.15298590919258,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/ashwood-district-results",
+      "winner": "FREGON, Matt",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "bass",
+    "name": "Bass",
+    "region": "Eastern Victoria",
+    "candidates": [
+      {
+        "name": "JOBE, Chris",
+        "party": "Victorian Socialists",
+        "position": 1
+      },
+      {
+        "name": "THORN, Sophie",
+        "party": "Australian Greens Victoria",
+        "position": 2
+      },
+      {
+        "name": "SCHELLEKENS, Nikole",
+        "party": "One Nation Victoria",
+        "position": 3
+      },
+      {
+        "name": "HALSTEAD, Rochelle",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 4
+      },
+      {
+        "name": "CAUNEAC, Ben",
+        "party": "Family First Victoria",
+        "position": 5
+      },
+      {
+        "name": "BUCKINGHAM, Chris",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 6
+      }
+    ],
+    "history": {
+      "labor": 50.24393778378901,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/bass-district-results",
+      "winner": "CRUGNALE, Jordan",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "bayswater",
+    "name": "Bayswater",
+    "region": "North-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "BLEAKNEY, Kayte",
+        "party": "One Nation Victoria",
+        "position": 1
+      },
+      {
+        "name": "KENNEDY, Jess",
+        "party": "Australian Greens Victoria",
+        "position": 2
+      },
+      {
+        "name": "BUXTON, Julie",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 3
+      },
+      {
+        "name": "KITCHEN, David",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 4
+      },
+      {
+        "name": "CLARKE, Mathew",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "HUBBARD, Naomi",
+        "party": "Democratic Labour Party (DLP)",
+        "position": 6
+      },
+      {
+        "name": "FERGUSON, Alec",
+        "party": "Victorian Socialists",
+        "position": 7
+      },
+      {
+        "name": "COOMBES, Gary",
+        "party": "Family First Victoria",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 54.22897251109181,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/bayswater-district-results",
+      "winner": "TAYLOR, Jackson",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "bellarine",
+    "name": "Bellarine",
+    "region": "Western Victoria",
+    "candidates": [
+      {
+        "name": "WHITEHEAD, Callum",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 1
+      },
+      {
+        "name": "MARCHANT, Alison",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 2
+      },
+      {
+        "name": "MCRAE, Ross",
+        "party": "One Nation Victoria",
+        "position": 3
+      },
+      {
+        "name": "KEOGH, Ronan",
+        "party": "Victorian Socialists",
+        "position": 4
+      },
+      {
+        "name": "LOCKHART, Kate",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "MANUELL, Guy",
+        "party": "Family First Victoria",
+        "position": 6
+      },
+      {
+        "name": "WILLIAMS, Dom",
+        "party": "Socialist Alliance",
+        "position": 7
+      },
+      {
+        "name": "POPE, Mitch",
+        "party": "Australian Greens Victoria",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 58.46287616906666,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/bellarine-district-results",
+      "winner": "MARCHANT, Alison",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "benambra",
+    "name": "Benambra",
+    "region": "Northern Victoria",
+    "candidates": [
+      {
+        "name": "FUERY, Mike",
+        "party": "Animal Justice Party",
+        "position": 1
+      },
+      {
+        "name": "PARTON, Graham",
+        "party": "Australian Greens Victoria",
+        "position": 2
+      },
+      {
+        "name": "YOUNG, Oliver",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 3
+      },
+      {
+        "name": "VANGALEN, Alex",
+        "party": "Victorian Socialists",
+        "position": 4
+      },
+      {
+        "name": "McKEEMAN, Lachie",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "MARTIN, Steve",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 6
+      },
+      {
+        "name": "SHEPPARD, Kellie",
+        "party": "One Nation Victoria",
+        "position": 7
+      },
+      {
+        "name": "PEPPER, Evette",
+        "party": "Family First Victoria",
+        "position": 8
+      },
+      {
+        "name": "QUILTY, Tim",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 9
+      }
+    ],
+    "history": {
+      "labor": 36.74243345083262,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/benambra-district-results",
+      "winner": "TILLEY, Bill",
+      "party": "Liberal"
+    }
+  },
+  {
+    "id": "bendigo-east",
+    "name": "Bendigo East",
+    "region": "Northern Victoria",
+    "candidates": [
+      {
+        "name": "JOHN, Des",
+        "party": "Family First Victoria",
+        "position": 1
+      },
+      {
+        "name": "DUNN, Bonnie",
+        "party": "Animal Justice Party",
+        "position": 2
+      },
+      {
+        "name": "NORSEN, Denali",
+        "party": "Victorian Socialists",
+        "position": 3
+      },
+      {
+        "name": "HAWKEN, Cheryl",
+        "party": "One Nation Victoria",
+        "position": 4
+      },
+      {
+        "name": "LETHLEAN, Andrew",
+        "party": "National Party of Australia - Victoria",
+        "position": 5
+      },
+      {
+        "name": "WRIGHT, Liz",
+        "party": "Independent",
+        "position": 6
+      },
+      {
+        "name": "HOSKINS, Kristie",
+        "party": "Independent",
+        "position": 7
+      },
+      {
+        "name": "RICKWOOD, Tim",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 8
+      },
+      {
+        "name": "TOLHURST, Michael",
+        "party": "Australian Greens Victoria",
+        "position": 9
+      }
+    ],
+    "history": {
+      "labor": 60.90915059858616,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/bendigo-east-district-results",
+      "winner": "ALLAN, Jacinta",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "bendigo-west",
+    "name": "Bendigo West",
+    "region": "Northern Victoria",
+    "candidates": [
+      {
+        "name": "SHALEVSKI, Tayne",
+        "party": "Victorian Socialists",
+        "position": 1
+      },
+      {
+        "name": "HUTCHINGS, David",
+        "party": "National Party of Australia - Victoria",
+        "position": 2
+      },
+      {
+        "name": "TRANTER, Debra",
+        "party": "Animal Justice Party",
+        "position": 3
+      },
+      {
+        "name": "BALDWIN, Brenton",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 4
+      },
+      {
+        "name": "SHAW, Liza",
+        "party": "Australian Greens Victoria",
+        "position": 5
+      },
+      {
+        "name": "HARISOPOULOS, Christos",
+        "party": "Family First Victoria",
+        "position": 6
+      },
+      {
+        "name": "MORGAN, Ellen",
+        "party": "One Nation Victoria",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 64.34642547391897,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/bendigo-west-district-results",
+      "winner": "EDWARDS, Maree",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "bentleigh",
+    "name": "Bentleigh",
+    "region": "Southern Metropolitan",
+    "candidates": [
+      {
+        "name": "PUTT, Tynan",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 1
+      },
+      {
+        "name": "VAINORAS, Tony",
+        "party": "Australian Citizens Party (Victorian Division)",
+        "position": 2
+      },
+      {
+        "name": "LONSING, Herbert",
+        "party": "One Nation Victoria",
+        "position": 3
+      },
+      {
+        "name": "PROCTOR, Claire",
+        "party": "Australian Greens Victoria",
+        "position": 4
+      },
+      {
+        "name": "STAIKOS, Nick",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 5
+      },
+      {
+        "name": "KRUGER, Liam",
+        "party": "Victorian Socialists",
+        "position": 6
+      }
+    ],
+    "history": {
+      "labor": 58.040780141843975,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/bentleigh-district-results",
+      "winner": "STAIKOS, Nick",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "berwick",
+    "name": "Berwick",
+    "region": "South-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "KHAN, Rana",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 1
+      },
+      {
+        "name": "DE SILVA, Roshan",
+        "party": "Australian Greens Victoria",
+        "position": 2
+      },
+      {
+        "name": "DE PAOLIS, Vincenzo",
+        "party": "Family First Victoria",
+        "position": 3
+      },
+      {
+        "name": "PIASTRINO, Michael",
+        "party": "One Nation Victoria",
+        "position": 4
+      },
+      {
+        "name": "BATTIN, Brad",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 5
+      },
+      {
+        "name": "DOWLING, Scott",
+        "party": "Australian Citizens Party (Victorian Division)",
+        "position": 6
+      },
+      {
+        "name": "JOHN, David",
+        "party": "Independent",
+        "position": 7
+      },
+      {
+        "name": "AMARASIRI GUNAWARDANA, Nalinda",
+        "party": "Victorian Socialists",
+        "position": 8
+      },
+      {
+        "name": "KING, Ethelyn",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 9
+      }
+    ],
+    "history": {
+      "labor": 45.28599783471671,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/berwick-district-results",
+      "winner": "BATTIN, Brad",
+      "party": "Liberal"
+    }
+  },
+  {
+    "id": "box-hill",
+    "name": "Box Hill",
+    "region": "North-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "QIN, Aaron",
+        "party": "Australian Greens Victoria",
+        "position": 1
+      },
+      {
+        "name": "CHEUNG, Heena",
+        "party": "Independent",
+        "position": 2
+      },
+      {
+        "name": "BAKER, Jamie",
+        "party": "One Nation Victoria",
+        "position": 3
+      },
+      {
+        "name": "HOUGUET, Sally",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 4
+      },
+      {
+        "name": "McGRATH, Sue-Ellen",
+        "party": "Democratic Labour Party (DLP)",
+        "position": 5
+      },
+      {
+        "name": "HAMER, Paul",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 6
+      },
+      {
+        "name": "AFAJ, Saravina",
+        "party": "Victorian Socialists",
+        "position": 7
+      },
+      {
+        "name": "FAGG, Peter",
+        "party": "Family First Victoria",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 57.22562900171341,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/box-hill-district-results",
+      "winner": "HAMER, Paul",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "brighton",
+    "name": "Brighton",
+    "region": "Southern Metropolitan",
+    "candidates": [
+      {
+        "name": "FAGAN, Alexander",
+        "party": "One Nation Victoria",
+        "position": 1
+      },
+      {
+        "name": "CASLEY, John",
+        "party": "Independent",
+        "position": 2
+      },
+      {
+        "name": "HAIN, Anthony",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 3
+      },
+      {
+        "name": "MULLAHY, Bridget",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 4
+      },
+      {
+        "name": "SMITH, Jessica",
+        "party": "Victorian Socialists",
+        "position": 5
+      },
+      {
+        "name": "NEWBURY, James",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 6
+      },
+      {
+        "name": "VINCENT, Barry",
+        "party": "Family First Victoria",
+        "position": 7
+      },
+      {
+        "name": "BAIN, Ebony",
+        "party": "Australian Greens Victoria",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 45.78807627323196,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/brighton-district-results",
+      "winner": "NEWBURY, James",
+      "party": "Liberal"
+    }
+  },
+  {
+    "id": "broadmeadows",
+    "name": "Broadmeadows",
+    "region": "Northern Metropolitan",
+    "candidates": [
+      {
+        "name": "YOLBULAN, Mutullah Can",
+        "party": "Victorian Socialists",
+        "position": 1
+      },
+      {
+        "name": "EL YOUSSEF, Mohamad",
+        "party": "Independent",
+        "position": 2
+      },
+      {
+        "name": "DUZOVA, Baris",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 3
+      },
+      {
+        "name": "NASIM, Maryam",
+        "party": "Australian Greens Victoria",
+        "position": 4
+      },
+      {
+        "name": "ELMUSTAPHA, Mohamad",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "MATTHEWS-WARD, Kathleen",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 6
+      },
+      {
+        "name": "WILSON, Russell",
+        "party": "Family First Victoria",
+        "position": 7
+      },
+      {
+        "name": "KEIRS, Ethan",
+        "party": "One Nation Victoria",
+        "position": 8
+      },
+      {
+        "name": "UNICOMB, Rachel",
+        "party": "Animal Justice Party",
+        "position": 9
+      },
+      {
+        "name": "BOLTON, Sue",
+        "party": "Socialist Alliance",
+        "position": 10
+      }
+    ],
+    "history": {
+      "labor": 65.4513938222841,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/broadmeadows-district-results",
+      "winner": "MATTHEWS-WARD, Kathleen",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "brunswick",
+    "name": "Brunswick",
+    "region": "Northern Metropolitan",
+    "candidates": [
+      {
+        "name": "FARMER, Naomi",
+        "party": "Victorian Socialists",
+        "position": 1
+      },
+      {
+        "name": "MARGELIS, John",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 2
+      },
+      {
+        "name": "PULFORD, Adam",
+        "party": "Australian Greens Victoria",
+        "position": 3
+      },
+      {
+        "name": "HELMAN, Adam",
+        "party": "One Nation Victoria",
+        "position": 4
+      },
+      {
+        "name": "ROSE, India",
+        "party": "Animal Justice Party",
+        "position": 5
+      },
+      {
+        "name": "STEGER, Gabe",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 6
+      },
+      {
+        "name": "AMANATIDIS, Jack",
+        "party": "Independent",
+        "position": 7
+      },
+      {
+        "name": "YUAN, Melissa",
+        "party": "Independent",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 84.05570261249856,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/brunswick-district-results",
+      "winner": "READ, Tim",
+      "party": "Australian Greens"
+    }
+  },
+  {
+    "id": "bulleen",
+    "name": "Bulleen",
+    "region": "North-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "RUBLEE, Greg",
+        "party": "Independent",
+        "position": 1
+      },
+      {
+        "name": "LIGHTBODY, Tomas",
+        "party": "Australian Greens Victoria",
+        "position": 2
+      },
+      {
+        "name": "HARVEY, Bradley",
+        "party": "Family First Victoria",
+        "position": 3
+      },
+      {
+        "name": "GUY, Matthew",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 4
+      },
+      {
+        "name": "PALIOURAS, Amanda",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "TAFIDIS, Dimitrios",
+        "party": "Victorian Socialists",
+        "position": 6
+      },
+      {
+        "name": "DALE, Tim",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 7
+      },
+      {
+        "name": "ATHARI, Mahdi",
+        "party": "One Nation Victoria",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 44.06487393391434,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/bulleen-district-results",
+      "winner": "GUY, Matthew",
+      "party": "Liberal"
+    }
+  },
+  {
+    "id": "bundoora",
+    "name": "Bundoora",
+    "region": "North-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "MURPHY-WEBSTER, Melissa",
+        "party": "Independent",
+        "position": 1
+      },
+      {
+        "name": "LAITALA, Nina",
+        "party": "Australian Greens Victoria",
+        "position": 2
+      },
+      {
+        "name": "PARR, Chris",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 3
+      },
+      {
+        "name": "WHALLEY, Bruce",
+        "party": "One Nation Victoria",
+        "position": 4
+      },
+      {
+        "name": "RANCIE, Rae",
+        "party": "Family First Victoria",
+        "position": 5
+      },
+      {
+        "name": "NICOLOSI, Chloe",
+        "party": "Animal Justice Party",
+        "position": 6
+      },
+      {
+        "name": "BROOKS, Colin",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 7
+      },
+      {
+        "name": "SANYAL, Sagar",
+        "party": "Victorian Socialists",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 62.735592381894634,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/bundoora-district-results",
+      "winner": "BROOKS, Colin",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "carrum",
+    "name": "Carrum",
+    "region": "South-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "MATHEWS, Joshua",
+        "party": "One Nation Victoria",
+        "position": 1
+      },
+      {
+        "name": "ABABNEH, Reema",
+        "party": "Victorian Socialists",
+        "position": 2
+      },
+      {
+        "name": "MOORE, Carolyn",
+        "party": "Animal Justice Party",
+        "position": 3
+      },
+      {
+        "name": "MACKENZIE, Harley",
+        "party": "Legalise Cannabis Victoria",
+        "position": 4
+      },
+      {
+        "name": "SMITH, Trevor",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 5
+      },
+      {
+        "name": "KILKENNY, Sonya",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 6
+      },
+      {
+        "name": "PEGRUM, Zoe",
+        "party": "Australian Greens Victoria",
+        "position": 7
+      },
+      {
+        "name": "SHELLEY, Jeff",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 59.93634099086632,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/carrum-district-results",
+      "winner": "KILKENNY, Sonya",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "caulfield",
+    "name": "Caulfield",
+    "region": "Southern Metropolitan",
+    "candidates": [
+      {
+        "name": "DOLEJŠÍ, Angel",
+        "party": "Australian Greens Victoria",
+        "position": 1
+      },
+      {
+        "name": "SHROOT, Yaakov Ziv",
+        "party": "Independent",
+        "position": 2
+      },
+      {
+        "name": "ABABNEH, Malak",
+        "party": "Victorian Socialists",
+        "position": 3
+      },
+      {
+        "name": "STAFRACE, Mikaela",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 4
+      },
+      {
+        "name": "GILBERT, Geneviève",
+        "party": "Family First Victoria",
+        "position": 5
+      },
+      {
+        "name": "SOUTHWICK, David",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 6
+      },
+      {
+        "name": "ABELMAN, Michael",
+        "party": "One Nation Victoria",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 47.931568468402034,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/caulfield-district-results",
+      "winner": "SOUTHWICK, David",
+      "party": "Liberal"
+    }
+  },
+  {
+    "id": "clarinda",
+    "name": "Clarinda",
+    "region": "South-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "ROCHE, Liam",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 1
+      },
+      {
+        "name": "BOYD-EEDLE, Conor",
+        "party": "Australian Greens Victoria",
+        "position": 2
+      },
+      {
+        "name": "TAK, Meng Heang",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 3
+      },
+      {
+        "name": "MESSAGE, Kit",
+        "party": "Victorian Socialists",
+        "position": 4
+      },
+      {
+        "name": "WHITE, Caroline",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "BAIN, Gavin",
+        "party": "One Nation Victoria",
+        "position": 6
+      },
+      {
+        "name": "PAGANIS, John",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 60.36804088251192,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/clarinda-district-results",
+      "winner": "TAK, Meng Heang",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "cranbourne",
+    "name": "Cranbourne",
+    "region": "South-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "URQUIOLA, Liam",
+        "party": "Legalise Cannabis Victoria",
+        "position": 1
+      },
+      {
+        "name": "BAIRD, Craig",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 2
+      },
+      {
+        "name": "MERCER, Annalise",
+        "party": "Australian Greens Victoria",
+        "position": 3
+      },
+      {
+        "name": "TRIPODI, Gino",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 4
+      },
+      {
+        "name": "RICHARDS, Pauline",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 5
+      },
+      {
+        "name": "YUNIS, Reem",
+        "party": "Victorian Socialists",
+        "position": 6
+      },
+      {
+        "name": "HIRST, Andrew",
+        "party": "One Nation Victoria",
+        "position": 7
+      },
+      {
+        "name": "FOREMAN, Shane",
+        "party": "Family First Victoria",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 58.99931693989071,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/cranbourne-district-results",
+      "winner": "RICHARDS, Pauline",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "croydon",
+    "name": "Croydon",
+    "region": "North-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "FARR, Richard",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 1
+      },
+      {
+        "name": "VANDERWOLF, David",
+        "party": "Independent",
+        "position": 2
+      },
+      {
+        "name": "SCHWAB, Nathan",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 3
+      },
+      {
+        "name": "THOMAS, Nofoao",
+        "party": "Family First Victoria",
+        "position": 4
+      },
+      {
+        "name": "WOOLDRIDGE, Toby",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 5
+      },
+      {
+        "name": "GRIMSHAW, Beth",
+        "party": "Victorian Socialists",
+        "position": 6
+      },
+      {
+        "name": "BRINDLEY, Glenn",
+        "party": "One Nation Victoria",
+        "position": 7
+      },
+      {
+        "name": "FERNANDO, Lini",
+        "party": "Australian Greens Victoria",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 48.62727053616425,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/croydon-district-results",
+      "winner": "HODGETT, David",
+      "party": "Liberal"
+    }
+  },
+  {
+    "id": "dandenong",
+    "name": "Dandenong",
+    "region": "South-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "BILLINGS, William",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 1
+      },
+      {
+        "name": "McMAHON, Jack",
+        "party": "Victorian Socialists",
+        "position": 2
+      },
+      {
+        "name": "KHAN, Arshad Ali",
+        "party": "Independent",
+        "position": 3
+      },
+      {
+        "name": "HARVEY, Jacqueline",
+        "party": "Family First Victoria",
+        "position": 4
+      },
+      {
+        "name": "WILLIAMS, Gabrielle",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 5
+      },
+      {
+        "name": "FORTE, Jordan",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 6
+      },
+      {
+        "name": "D'ARCY, Catherine",
+        "party": "Australian Greens Victoria",
+        "position": 7
+      },
+      {
+        "name": "WRIGHT, Glenda",
+        "party": "One Nation Victoria",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 69.10558849501703,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/dandenong-district-results",
+      "winner": "WILLIAMS, Gabrielle",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "eildon",
+    "name": "Eildon",
+    "region": "Northern Victoria",
+    "candidates": [
+      {
+        "name": "WARD, Tom",
+        "party": "Independent",
+        "position": 1
+      },
+      {
+        "name": "MCLEISH, Cindy",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 2
+      },
+      {
+        "name": "BARBER, Tim",
+        "party": "One Nation Victoria",
+        "position": 3
+      },
+      {
+        "name": "MOSELY, Joshua",
+        "party": "Family First Victoria",
+        "position": 4
+      },
+      {
+        "name": "GULPILIL, Talia",
+        "party": "Australian Greens Victoria",
+        "position": 5
+      },
+      {
+        "name": "LITTLE, Dylan",
+        "party": "Victorian Socialists",
+        "position": 6
+      },
+      {
+        "name": "GIBSON, Kevin",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 7
+      },
+      {
+        "name": "BOND, Chloe",
+        "party": "Animal Justice Party",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 42.92379471228615,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/eildon-district-results",
+      "winner": "McLEISH, Cindy",
+      "party": "Liberal"
+    }
+  },
+  {
+    "id": "eltham",
+    "name": "Eltham",
+    "region": "North-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "RICHES, Maeve",
+        "party": "Victorian Socialists",
+        "position": 1
+      },
+      {
+        "name": "BYRNES, Paul",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 2
+      },
+      {
+        "name": "BROOKSBY, Louise",
+        "party": "Animal Justice Party",
+        "position": 3
+      },
+      {
+        "name": "MARASEA, Steven",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 4
+      },
+      {
+        "name": "WARD, Vicki",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 5
+      },
+      {
+        "name": "WEATHERLEY, Jessie",
+        "party": "One Nation Victoria",
+        "position": 6
+      },
+      {
+        "name": "BUSBRIDGE, Rachel",
+        "party": "Australian Greens Victoria",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 59.004652860140496,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/eltham-district-results",
+      "winner": "WARD, Vicki",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "essendon",
+    "name": "Essendon",
+    "region": "Northern Metropolitan",
+    "candidates": [
+      {
+        "name": "BARNES, John",
+        "party": "One Nation Victoria",
+        "position": 1
+      },
+      {
+        "name": "ADAMS, Ava",
+        "party": "Independent",
+        "position": 2
+      },
+      {
+        "name": "LE DEUX, Tommy",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 3
+      },
+      {
+        "name": "MOHAMUD, Anab",
+        "party": "Independent",
+        "position": 4
+      },
+      {
+        "name": "THEODOSIS, Kat",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 5
+      },
+      {
+        "name": "WILLIAMS, James",
+        "party": "Australian Greens Victoria",
+        "position": 6
+      },
+      {
+        "name": "YILDIZ, Oscar",
+        "party": "Independent",
+        "position": 7
+      },
+      {
+        "name": "KEDEM, Michal",
+        "party": "Victorian Socialists",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 62.45013972818688,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/essendon-district-results",
+      "winner": "PEARSON, Danny",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "eureka",
+    "name": "Eureka",
+    "region": "Western Victoria",
+    "candidates": [
+      {
+        "name": "ZIVKOVIC, Belinda",
+        "party": "Independent",
+        "position": 1
+      },
+      {
+        "name": "McCOLL, Sam",
+        "party": "Australian Greens Victoria",
+        "position": 2
+      },
+      {
+        "name": "SETTLE, Michaela",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 3
+      },
+      {
+        "name": "RAVEN, Andy",
+        "party": "Victorian Socialists",
+        "position": 4
+      },
+      {
+        "name": "HARKNESS, Ian Maxwell",
+        "party": "Family First Victoria",
+        "position": 5
+      },
+      {
+        "name": "MORRISON, Wendy",
+        "party": "Animal Justice Party",
+        "position": 6
+      },
+      {
+        "name": "BALLINGER, Paul",
+        "party": "One Nation Victoria",
+        "position": 7
+      },
+      {
+        "name": "MUIR, Emma",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 8
+      },
+      {
+        "name": "VENDITTI-TAYLOR, Steven",
+        "party": "Independent",
+        "position": 9
+      }
+    ],
+    "history": {
+      "labor": 57.17285123875616,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/eureka-district-results",
+      "winner": "SETTLE, Michaela",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "euroa",
+    "name": "Euroa",
+    "region": "Northern Victoria",
+    "candidates": [
+      {
+        "name": "CLEELAND, Annabelle",
+        "party": "National Party of Australia - Victoria",
+        "position": 1
+      },
+      {
+        "name": "TAOUK, Moussa",
+        "party": "Family First Victoria",
+        "position": 2
+      },
+      {
+        "name": "REGAN, Alysia",
+        "party": "Australian Greens Victoria",
+        "position": 3
+      },
+      {
+        "name": "KELLY, Karina",
+        "party": "Animal Justice Party",
+        "position": 4
+      },
+      {
+        "name": "KELLY, Julian",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 5
+      },
+      {
+        "name": "CAMPBELL, Steve",
+        "party": "One Nation Victoria",
+        "position": 6
+      },
+      {
+        "name": "LYLE, Zoe",
+        "party": "Victorian Socialists",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 40.06912551489039,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/euroa-district-results",
+      "winner": "CLEELAND, Annabelle",
+      "party": "The Nationals"
+    }
+  },
+  {
+    "id": "evelyn",
+    "name": "Evelyn",
+    "region": "Eastern Victoria",
+    "candidates": [
+      {
+        "name": "SHERLOCK, Analise",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 1
+      },
+      {
+        "name": "O'BRIEN, Michelle",
+        "party": "Family First Victoria",
+        "position": 2
+      },
+      {
+        "name": "HENLEY, Andrew",
+        "party": "Australian Greens Victoria",
+        "position": 3
+      },
+      {
+        "name": "VALLENCE, Bridget",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 4
+      },
+      {
+        "name": "HEALD, Jan",
+        "party": "Animal Justice Party",
+        "position": 5
+      },
+      {
+        "name": "KILLEY, Daniel",
+        "party": "One Nation Victoria",
+        "position": 6
+      },
+      {
+        "name": "SCANLON, James",
+        "party": "Victorian Socialists",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 44.78510750349186,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/evelyn-district-results",
+      "winner": "VALLENCE, Bridget",
+      "party": "Liberal"
+    }
+  },
+  {
+    "id": "footscray",
+    "name": "Footscray",
+    "region": "Western Metropolitan",
+    "candidates": [
+      {
+        "name": "DINH, Hai",
+        "party": "Independent",
+        "position": 1
+      },
+      {
+        "name": "PEREYRA, Elena",
+        "party": "Australian Greens Victoria",
+        "position": 2
+      },
+      {
+        "name": "NGUYEN, Minh Quan",
+        "party": "The West Party",
+        "position": 3
+      },
+      {
+        "name": "FELATE, Andualem",
+        "party": "The Republican Make Australia Great Again",
+        "position": 4
+      },
+      {
+        "name": "HESS, Kristina",
+        "party": "I'm Voting to Avoid the Fine ",
+        "position": 5
+      },
+      {
+        "name": "LOPEZ, Alexander",
+        "party": "One Nation Victoria",
+        "position": 6
+      },
+      {
+        "name": "LEWIS, Daniel",
+        "party": "Free Palestine",
+        "position": 7
+      },
+      {
+        "name": "IBRAHIM, Marcus",
+        "party": "Independent",
+        "position": 8
+      },
+      {
+        "name": "FLORES, Ana",
+        "party": "Family First Victoria",
+        "position": 9
+      },
+      {
+        "name": "HALL, Katie",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 10
+      },
+      {
+        "name": "MARSH, Jess",
+        "party": "Independent",
+        "position": 11
+      },
+      {
+        "name": "CALDER, Daryle",
+        "party": "Climate Action Now",
+        "position": 12
+      },
+      {
+        "name": "CUMMING, Catherine",
+        "party": "Independent",
+        "position": 13
+      },
+      {
+        "name": "CHANG, Tim",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 14
+      },
+      {
+        "name": "DUFF, Jasmine",
+        "party": "Victorian Socialists",
+        "position": 15
+      }
+    ],
+    "history": {
+      "labor": 75.66435299950422,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/footscray-district-results",
+      "winner": "HALL, Katie",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "frankston",
+    "name": "Frankston",
+    "region": "South-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "KNIPE, Jeff",
+        "party": "Legalise Cannabis Victoria",
+        "position": 1
+      },
+      {
+        "name": "KELSALL, Henry",
+        "party": "Independent",
+        "position": 2
+      },
+      {
+        "name": "BARRY, Nicola",
+        "party": "Independent",
+        "position": 3
+      },
+      {
+        "name": "NICHOLES, Peter",
+        "party": "Family First Victoria",
+        "position": 4
+      },
+      {
+        "name": "EDBROOKE, Paul",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 5
+      },
+      {
+        "name": "ABRAHAM, Chrysten",
+        "party": "Independent",
+        "position": 6
+      },
+      {
+        "name": "AMBRY, Bree",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 7
+      },
+      {
+        "name": "STAFFORD, Paul",
+        "party": "One Nation Victoria",
+        "position": 8
+      },
+      {
+        "name": "HARMAN, Julie",
+        "party": "Animal Justice Party",
+        "position": 9
+      },
+      {
+        "name": "GOULAS, Katie",
+        "party": "Australian Greens Victoria",
+        "position": 10
+      },
+      {
+        "name": "CHEESEMAN, Andrew",
+        "party": "Victorian Socialists",
+        "position": 11
+      }
+    ],
+    "history": {
+      "labor": 58.65902205753486,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/frankston-district-results",
+      "winner": "EDBROOKE, Paul",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "geelong",
+    "name": "Geelong",
+    "region": "Western Victoria",
+    "candidates": [
+      {
+        "name": "FLYNN, Emilie",
+        "party": "Australian Greens Victoria",
+        "position": 1
+      },
+      {
+        "name": "POBJOY, Andy",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 2
+      },
+      {
+        "name": "BENGTSSON, Maria",
+        "party": "Family First Victoria",
+        "position": 3
+      },
+      {
+        "name": "MACPHERSON, Pippa",
+        "party": "Animal Justice Party",
+        "position": 4
+      },
+      {
+        "name": "DE LORENZO, John",
+        "party": "One Nation Victoria",
+        "position": 5
+      },
+      {
+        "name": "GRULL, Brenden",
+        "party": "Socialist Alliance",
+        "position": 6
+      },
+      {
+        "name": "COUZENS, Christine",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 7
+      },
+      {
+        "name": "VANDERPOL, Bree",
+        "party": "Victorian Socialists",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 64.70890487467048,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/geelong-district-results",
+      "winner": "COUZENS, Christine",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "gippsland-east",
+    "name": "Gippsland East",
+    "region": "Eastern Victoria",
+    "candidates": [
+      {
+        "name": "ESPESETH, Amy",
+        "party": "Victorian Socialists",
+        "position": 1
+      },
+      {
+        "name": "STEPHENS, Sonny",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 2
+      },
+      {
+        "name": "MUNRO, Ash",
+        "party": "Australian Greens Victoria",
+        "position": 3
+      },
+      {
+        "name": "RENDELL, Gemma",
+        "party": "National Party of Australia - Victoria",
+        "position": 4
+      },
+      {
+        "name": "WATERS, Alison",
+        "party": "Family First Victoria",
+        "position": 5
+      },
+      {
+        "name": "GOODMAN, Steve",
+        "party": "One Nation Victoria",
+        "position": 6
+      },
+      {
+        "name": "MUIR, Ricky",
+        "party": "Shooters, Fishers and Farmers Party Victoria",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 26.077188667644137,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/gippsland-east-district-results",
+      "winner": "BULL, Tim",
+      "party": "The Nationals"
+    }
+  },
+  {
+    "id": "gippsland-south",
+    "name": "Gippsland South",
+    "region": "Eastern Victoria",
+    "candidates": [
+      {
+        "name": "BARRY-MACAULAY, Amy",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 1
+      },
+      {
+        "name": "McAULIFFE, Jessica",
+        "party": "Animal Justice Party",
+        "position": 2
+      },
+      {
+        "name": "O'BRIEN, Danny",
+        "party": "National Party of Australia - Victoria",
+        "position": 3
+      },
+      {
+        "name": "SCHUHMANN, Phillip",
+        "party": "Independent",
+        "position": 4
+      },
+      {
+        "name": "EVANS, Zave",
+        "party": "Australian Greens Victoria",
+        "position": 5
+      },
+      {
+        "name": "McGENNISKEN, Lachie",
+        "party": "Victorian Socialists",
+        "position": 6
+      },
+      {
+        "name": "WILKIE, Bianca",
+        "party": "One Nation Victoria",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 34.7502832326284,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/gippsland-south-district-results",
+      "winner": "O&#39;BRIEN, Danny",
+      "party": "The Nationals"
+    }
+  },
+  {
+    "id": "glen-waverley",
+    "name": "Glen Waverley",
+    "region": "North-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "SUN, Jacky",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 1
+      },
+      {
+        "name": "WHITE, Toyo",
+        "party": "Australian Greens Victoria",
+        "position": 2
+      },
+      {
+        "name": "NADARAJAH, Segar",
+        "party": "Democratic Labour Party (DLP)",
+        "position": 3
+      },
+      {
+        "name": "COX, Brad",
+        "party": "One Nation Victoria",
+        "position": 4
+      },
+      {
+        "name": "DOBIE, Anna",
+        "party": "Family First Victoria",
+        "position": 5
+      },
+      {
+        "name": "SIOW, Nicholas",
+        "party": "Victorian Socialists",
+        "position": 6
+      },
+      {
+        "name": "MULLAHY, John",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 53.30333355721226,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/glen-waverley-district-results",
+      "winner": "MULLAHY, John",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "greenvale",
+    "name": "Greenvale",
+    "region": "Northern Metropolitan",
+    "candidates": [
+      {
+        "name": "SAID, Hassan",
+        "party": "Independent",
+        "position": 1
+      },
+      {
+        "name": "SMELOV, Kirill",
+        "party": "Victorian Socialists",
+        "position": 2
+      },
+      {
+        "name": "MCGINNESS, Declan",
+        "party": "Australian Greens Victoria",
+        "position": 3
+      },
+      {
+        "name": "MOORE, Chris",
+        "party": "One Nation Victoria",
+        "position": 4
+      },
+      {
+        "name": "ZOUGHAIB, Yehya",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "YOHANNA, Mazen",
+        "party": "Australian Citizens Party (Victorian Division)",
+        "position": 6
+      },
+      {
+        "name": "TITHERIDGE, Michael",
+        "party": "Family First Victoria",
+        "position": 7
+      },
+      {
+        "name": "FURINA, Rosanna",
+        "party": "Animal Justice Party",
+        "position": 8
+      },
+      {
+        "name": "OVEREND, Jim",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 9
+      },
+      {
+        "name": "WALTERS, Iwan",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 10
+      }
+    ],
+    "history": {
+      "labor": 56.91938377123562,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/greenvale-district-results",
+      "winner": "WALTERS, Iwan",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "hastings",
+    "name": "Hastings",
+    "region": "Eastern Victoria",
+    "candidates": [
+      {
+        "name": "COULSON, Chloe",
+        "party": "Animal Justice Party",
+        "position": 1
+      },
+      {
+        "name": "DENMAN, Michael",
+        "party": "Victorian Socialists",
+        "position": 2
+      },
+      {
+        "name": "WILLOUGHBY, Isaac",
+        "party": "Australian Greens Victoria",
+        "position": 3
+      },
+      {
+        "name": "MERCURIO, Paul",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 4
+      },
+      {
+        "name": "SCHIEFLER, Frank",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 5
+      },
+      {
+        "name": "SMART, Jason",
+        "party": "Independent",
+        "position": 6
+      },
+      {
+        "name": "ANGELICO, Peter",
+        "party": "One Nation Victoria",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 51.353317811408616,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/hastings-district-results",
+      "winner": "MERCURIO, Paul",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "hawthorn",
+    "name": "Hawthorn",
+    "region": "Southern Metropolitan",
+    "candidates": [
+      {
+        "name": "CROSBY, Clive",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 1
+      },
+      {
+        "name": "ROCHA, Kylie",
+        "party": "Australian Greens Victoria",
+        "position": 2
+      },
+      {
+        "name": "IBUKI, Shima",
+        "party": "Independent",
+        "position": 3
+      },
+      {
+        "name": "PRIBILOVICS, Paul",
+        "party": "One Nation Victoria",
+        "position": 4
+      },
+      {
+        "name": "NICOLL, Adam",
+        "party": "Family First Victoria",
+        "position": 5
+      },
+      {
+        "name": "McENEARNEY, Tess",
+        "party": "Victorian Socialists",
+        "position": 6
+      },
+      {
+        "name": "PESUTTO, John",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 48.25772963213721,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/hawthorn-district-results",
+      "winner": "PESUTTO, John",
+      "party": "Liberal"
+    }
+  },
+  {
+    "id": "ivanhoe",
+    "name": "Ivanhoe",
+    "region": "North-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "KENNEDY, Michelle",
+        "party": "Independent",
+        "position": 1
+      },
+      {
+        "name": "MILNE, Ben",
+        "party": "Victorian Socialists",
+        "position": 2
+      },
+      {
+        "name": "CARBINES, Anthony",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 3
+      },
+      {
+        "name": "LOPEZ RIOS, Oscar",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 4
+      },
+      {
+        "name": "HUTCHINSON, Wayne",
+        "party": "One Nation Victoria",
+        "position": 5
+      },
+      {
+        "name": "CASONATO, Ren",
+        "party": "Family First Victoria",
+        "position": 6
+      },
+      {
+        "name": "CRAWLEY, Nina",
+        "party": "Australian Greens Victoria",
+        "position": 7
+      },
+      {
+        "name": "BERGMAN, Dora",
+        "party": "Independent",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 62.750314047144016,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/ivanhoe-district-results",
+      "winner": "CARBINES, Anthony",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "kalkallo",
+    "name": "Kalkallo",
+    "region": "Northern Metropolitan",
+    "candidates": [
+      {
+        "name": "SPENCE, Ros",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 1
+      },
+      {
+        "name": "DADISHO, Eddie",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 2
+      },
+      {
+        "name": "DOBSON, Jeanette",
+        "party": "Family First Victoria",
+        "position": 3
+      },
+      {
+        "name": "LYNCH, Matthew",
+        "party": "Animal Justice Party",
+        "position": 4
+      },
+      {
+        "name": "STEANS, Troy",
+        "party": "One Nation Victoria",
+        "position": 5
+      },
+      {
+        "name": "TIWARI, Payal",
+        "party": "Australian Greens Victoria",
+        "position": 6
+      },
+      {
+        "name": "ISLAM, Rebeca",
+        "party": "Independent",
+        "position": 7
+      },
+      {
+        "name": "MILLETT, Courtney",
+        "party": "Victorian Socialists",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 66.43081369275998,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/kalkallo-district-results",
+      "winner": "SPENCE, Ros",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "kew",
+    "name": "Kew",
+    "region": "Southern Metropolitan",
+    "candidates": [
+      {
+        "name": "LIANG, Man",
+        "party": "Independent",
+        "position": 1
+      },
+      {
+        "name": "TORNEY, Sophie",
+        "party": "Independent",
+        "position": 2
+      },
+      {
+        "name": "CARTER, Jackie",
+        "party": "Australian Greens Victoria",
+        "position": 3
+      },
+      {
+        "name": "SUN, David",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 4
+      },
+      {
+        "name": "LAIRD, David",
+        "party": "One Nation Victoria",
+        "position": 5
+      },
+      {
+        "name": "LINCOLNE, Samantha",
+        "party": "Victorian Socialists",
+        "position": 6
+      },
+      {
+        "name": "WILSON, Jess",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 7
+      },
+      {
+        "name": "SEELEY, Ann",
+        "party": "Family First Victoria",
+        "position": 8
+      },
+      {
+        "name": "HALES, Juliet",
+        "party": "Animal Justice Party",
+        "position": 9
+      },
+      {
+        "name": "DAVIS, Finlay",
+        "party": "Independent",
+        "position": 10
+      }
+    ],
+    "history": {
+      "labor": 46.024499908240045,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/kew-district-results",
+      "winner": "WILSON, Jess",
+      "party": "Liberal"
+    }
+  },
+  {
+    "id": "kororoit",
+    "name": "Kororoit",
+    "region": "Western Metropolitan",
+    "candidates": [
+      {
+        "name": "SOUTHERN, Donna",
+        "party": "The West Party",
+        "position": 1
+      },
+      {
+        "name": "PATTERSON, Nick",
+        "party": "Family First Victoria",
+        "position": 2
+      },
+      {
+        "name": "MCDONALD, Joyce",
+        "party": "Australian Greens Victoria",
+        "position": 3
+      },
+      {
+        "name": "PIDI, Divya",
+        "party": "The Republican Make Australia Great Again",
+        "position": 4
+      },
+      {
+        "name": "HASSAN, Rayan",
+        "party": "Victorian Socialists",
+        "position": 5
+      },
+      {
+        "name": "CHAKOMA, Jack",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 6
+      },
+      {
+        "name": "GRIGOROVITCH, Luba",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 7
+      },
+      {
+        "name": "MELNIKOV, Seva",
+        "party": "One Nation Victoria",
+        "position": 8
+      },
+      {
+        "name": "KANDPAL, Vasundhara",
+        "party": "Animal Justice Party",
+        "position": 9
+      }
+    ],
+    "history": {
+      "labor": 64.24695556500212,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/kororoit-district-results",
+      "winner": "GRIGOROVITCH, Luba",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "lara",
+    "name": "Lara",
+    "region": "Western Victoria",
+    "candidates": [
+      {
+        "name": "HATHWAY, Sarah",
+        "party": "Socialist Alliance",
+        "position": 1
+      },
+      {
+        "name": "LONG, Samantha",
+        "party": "Animal Justice Party",
+        "position": 2
+      },
+      {
+        "name": "UWIZEYIMANA, Tina",
+        "party": "Family First Victoria",
+        "position": 3
+      },
+      {
+        "name": "SLATER, Theresa",
+        "party": "Australian Greens Victoria",
+        "position": 4
+      },
+      {
+        "name": "SPYROS, Steven",
+        "party": "One Nation Victoria",
+        "position": 5
+      },
+      {
+        "name": "RANDALL, Oliver",
+        "party": "Victorian Socialists",
+        "position": 6
+      },
+      {
+        "name": "GEORGE, Ella",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 7
+      },
+      {
+        "name": "BEDDOE, Tim",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 66.15310908265671,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/lara-district-results",
+      "winner": "GEORGE, Ella",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "laverton",
+    "name": "Laverton",
+    "region": "Western Metropolitan",
+    "candidates": [
+      {
+        "name": "NGUYEN, Lucy",
+        "party": "Australian Greens Victoria",
+        "position": 1
+      },
+      {
+        "name": "MENDELSOHN, Emma",
+        "party": "The West Party",
+        "position": 2
+      },
+      {
+        "name": "PAREDES, Rufo",
+        "party": "One Nation Victoria",
+        "position": 3
+      },
+      {
+        "name": "GARCIA, Jo",
+        "party": "Family First Victoria",
+        "position": 4
+      },
+      {
+        "name": "CONNOLLY, Sarah",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 5
+      },
+      {
+        "name": "MANSOURI JAJAEE, Shohre",
+        "party": "Animal Justice Party",
+        "position": 6
+      },
+      {
+        "name": "CHITTEDI, Suchithra",
+        "party": "The Republican Make Australia Great Again",
+        "position": 7
+      },
+      {
+        "name": "NOUNE, Ghada",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 8
+      },
+      {
+        "name": "RUDD, Van Thanh",
+        "party": "Victorian Socialists",
+        "position": 9
+      }
+    ],
+    "history": {
+      "labor": 68.01397473797365,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/laverton-district-results",
+      "winner": "CONNOLLY, Sarah",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "lowan",
+    "name": "Lowan",
+    "region": "Western Victoria",
+    "candidates": [
+      {
+        "name": "BUTLER, Kieran",
+        "party": "Independent",
+        "position": 1
+      },
+      {
+        "name": "HYSLOP, Karen",
+        "party": "Australian Democrats",
+        "position": 2
+      },
+      {
+        "name": "KEALY, Emma",
+        "party": "National Party of Australia - Victoria",
+        "position": 3
+      },
+      {
+        "name": "PAVLOVICH, Sue",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 4
+      },
+      {
+        "name": "ELMES, Lee-Ann",
+        "party": "Family First Victoria",
+        "position": 5
+      },
+      {
+        "name": "PARTRIDGE, Andrew",
+        "party": "One Nation Victoria",
+        "position": 6
+      },
+      {
+        "name": "DOWNEY, Jos",
+        "party": "Victorian Socialists",
+        "position": 7
+      },
+      {
+        "name": "MORAN, Jeff",
+        "party": "Australian Greens Victoria",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 28.392522932600105,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/lowan-district-results",
+      "winner": "KEALY, Emma",
+      "party": "The Nationals"
+    }
+  },
+  {
+    "id": "macedon",
+    "name": "Macedon",
+    "region": "Northern Victoria",
+    "candidates": [
+      {
+        "name": "BONANNO, Dom",
+        "party": "Independent",
+        "position": 1
+      },
+      {
+        "name": "DEATH, Annette",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 2
+      },
+      {
+        "name": "WILSON, Catherine",
+        "party": "Victorian Socialists",
+        "position": 3
+      },
+      {
+        "name": "MCRAE MCLEOD, Marley",
+        "party": "Australian Greens Victoria",
+        "position": 4
+      },
+      {
+        "name": "SETON, Michael",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "MAYNE, Bernadette",
+        "party": "Family First Victoria",
+        "position": 6
+      },
+      {
+        "name": "KORINFSKY, Natalie",
+        "party": "Animal Justice Party",
+        "position": 7
+      },
+      {
+        "name": "KENDALL, Kate",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 8
+      },
+      {
+        "name": "PAROLIN, Damien",
+        "party": "One Nation Victoria",
+        "position": 9
+      }
+    ],
+    "history": {
+      "labor": 59.53978215393494,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/macedon-district-results",
+      "winner": "THOMAS, Mary-Anne",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "malvern",
+    "name": "Malvern",
+    "region": "Southern Metropolitan",
+    "candidates": [
+      {
+        "name": "SEGAL, David",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 1
+      },
+      {
+        "name": "MARTIN, Peter",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 2
+      },
+      {
+        "name": "BODE, Edward",
+        "party": "One Nation Victoria",
+        "position": 3
+      },
+      {
+        "name": "LEONARD, Gavin",
+        "party": "Victorian Socialists",
+        "position": 4
+      },
+      {
+        "name": "KATSIKIS, Georgia",
+        "party": "Australian Greens Victoria",
+        "position": 5
+      },
+      {
+        "name": "ZIGOURAS, Christina",
+        "party": "Independent",
+        "position": 6
+      },
+      {
+        "name": "HAMER, Amelia",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 41.717791411042946,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/malvern-district-results",
+      "winner": "O&#39;BRIEN, Michael",
+      "party": "Liberal"
+    }
+  },
+  {
+    "id": "melbourne",
+    "name": "Melbourne",
+    "region": "Northern Metropolitan",
+    "candidates": [
+      {
+        "name": "TUCKFIELD, Rowan",
+        "party": "Independent",
+        "position": 1
+      },
+      {
+        "name": "SANDELL, Ellen",
+        "party": "Australian Greens Victoria",
+        "position": 2
+      },
+      {
+        "name": "MCCATHIE, Rob",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 3
+      },
+      {
+        "name": "GRIFFITHS, Davydd",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 4
+      },
+      {
+        "name": "YUSUF, Mohamed",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "JONES, Naomi",
+        "party": "Animal Justice Party",
+        "position": 6
+      },
+      {
+        "name": "CAMILLO, Rafael",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 7
+      },
+      {
+        "name": "VAN DEN LAMB, Jordan",
+        "party": "Victorian Socialists",
+        "position": 8
+      },
+      {
+        "name": "COURTIS, Phillip",
+        "party": "One Nation Victoria",
+        "position": 9
+      }
+    ],
+    "history": {
+      "labor": 75.0135233660246,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/melbourne-district-results",
+      "winner": "SANDELL, Ellen",
+      "party": "Australian Greens"
+    }
+  },
+  {
+    "id": "melton",
+    "name": "Melton",
+    "region": "Western Victoria",
+    "candidates": [
+      {
+        "name": "LEGRO, Hayden",
+        "party": "The West Party",
+        "position": 1
+      },
+      {
+        "name": "KELLY, Daire",
+        "party": "Victorian Socialists",
+        "position": 2
+      },
+      {
+        "name": "FARUQ, M.D. Omor",
+        "party": "Independent",
+        "position": 3
+      },
+      {
+        "name": "LEVCHENKOVA, Veronika",
+        "party": "Australian Greens Victoria",
+        "position": 4
+      },
+      {
+        "name": "ADIN-JAMES, Fiona",
+        "party": "Animal Justice Party",
+        "position": 5
+      },
+      {
+        "name": "BINGHAM, Jarrod",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 6
+      },
+      {
+        "name": "WEST, Marlene",
+        "party": "Family First Victoria",
+        "position": 7
+      },
+      {
+        "name": "BORG, Broden",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 8
+      },
+      {
+        "name": "PERERA, Jason Spencer",
+        "party": "Independent",
+        "position": 9
+      },
+      {
+        "name": "FRASER, Jason",
+        "party": "Independent",
+        "position": 10
+      },
+      {
+        "name": "KATSELIS, Matthew",
+        "party": "One Nation Victoria",
+        "position": 11
+      }
+    ],
+    "history": {
+      "labor": 54.59475265158563,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/melton-district-results",
+      "winner": "McGHIE, Steve",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "mildura",
+    "name": "Mildura",
+    "region": "Northern Victoria",
+    "candidates": [
+      {
+        "name": "NTAHOMVUKIYE, Joselyne",
+        "party": "Family First Victoria",
+        "position": 1
+      },
+      {
+        "name": "COOPER, Guy",
+        "party": "One Nation Victoria",
+        "position": 2
+      },
+      {
+        "name": "NAYEF, Renee",
+        "party": "Victorian Socialists",
+        "position": 3
+      },
+      {
+        "name": "BENHAM, Jade",
+        "party": "National Party of Australia - Victoria",
+        "position": 4
+      },
+      {
+        "name": "FRIES, Vanessa",
+        "party": "Animal Justice Party",
+        "position": 5
+      },
+      {
+        "name": "ZIGOURAS, Stella",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 6
+      },
+      {
+        "name": "CLEMENTS, Katie",
+        "party": "Australian Greens Victoria",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 35.88358678552701,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/mildura-district-results",
+      "winner": "BENHAM, Jade",
+      "party": "The Nationals"
+    }
+  },
+  {
+    "id": "mill-park",
+    "name": "Mill Park",
+    "region": "North-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "NEALY, Elizabeth",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 1
+      },
+      {
+        "name": "DRYSDALE, Joel",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 2
+      },
+      {
+        "name": "VAN DER END, Kath",
+        "party": "Family First Victoria",
+        "position": 3
+      },
+      {
+        "name": "ZACHARIAS, Binoy",
+        "party": "Australian Greens Victoria",
+        "position": 4
+      },
+      {
+        "name": "McLINDON, Aidan",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "LAMBOURN, Jesse",
+        "party": "Victorian Socialists",
+        "position": 6
+      },
+      {
+        "name": "TSOUTSOULIS, Arthur",
+        "party": "One Nation Victoria",
+        "position": 7
+      },
+      {
+        "name": "LEVENS, Eve",
+        "party": "Animal Justice Party",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 61.43423137876387,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/mill-park-district-results",
+      "winner": "D&#39;AMBROSIO, Lily",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "monbulk",
+    "name": "Monbulk",
+    "region": "Eastern Victoria",
+    "candidates": [
+      {
+        "name": "FITZMAURICE, Clare",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 1
+      },
+      {
+        "name": "MANNERS, Craig",
+        "party": "Family First Victoria",
+        "position": 2
+      },
+      {
+        "name": "DE MARTINO, Daniela",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 3
+      },
+      {
+        "name": "DOWELL, Adrian",
+        "party": "One Nation Victoria",
+        "position": 4
+      },
+      {
+        "name": "BLAIR, Merran",
+        "party": "Australian Greens Victoria",
+        "position": 5
+      },
+      {
+        "name": "WORMALD, Alyssa",
+        "party": "Animal Justice Party",
+        "position": 6
+      },
+      {
+        "name": "BRIGGS, Noah",
+        "party": "Victorian Socialists",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 57.55436993085629,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/monbulk-district-results",
+      "winner": "DE MARTINO, Daniela",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "mordialloc",
+    "name": "Mordialloc",
+    "region": "South-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "O'HALLORAN, Paul",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 1
+      },
+      {
+        "name": "HOSSAIN, Mahee",
+        "party": "Victorian Socialists",
+        "position": 2
+      },
+      {
+        "name": "POTUCEK, Lily",
+        "party": "Family First Victoria",
+        "position": 3
+      },
+      {
+        "name": "VERSTEEGEN, Rachel",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 4
+      },
+      {
+        "name": "TICEHURST, Nadia",
+        "party": "One Nation Victoria",
+        "position": 5
+      },
+      {
+        "name": "BRESKIN, Alex",
+        "party": "Australian Greens Victoria",
+        "position": 6
+      },
+      {
+        "name": "RICHARDSON, Tim",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 7
+      },
+      {
+        "name": "THOMPSON, Renee",
+        "party": "Legalise Cannabis Victoria",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 58.19469347919834,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/mordialloc-district-results",
+      "winner": "RICHARDSON, Tim",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "mornington",
+    "name": "Mornington",
+    "region": "Eastern Victoria",
+    "candidates": [
+      {
+        "name": "BROWNLIE, Gene",
+        "party": "Victorian Socialists",
+        "position": 1
+      },
+      {
+        "name": "MACDONALD, Kerry",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 2
+      },
+      {
+        "name": "CREWTHER, Chris",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 3
+      },
+      {
+        "name": "BEARDS, Ashli",
+        "party": "One Nation Victoria",
+        "position": 4
+      },
+      {
+        "name": "TITCHER, Kai",
+        "party": "Australian Greens Victoria",
+        "position": 5
+      },
+      {
+        "name": "GOFFIN, Melissa",
+        "party": "Independent",
+        "position": 6
+      },
+      {
+        "name": "MAHER, Adrian",
+        "party": "Independent",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 41.719366649232086,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/mornington-district-results",
+      "winner": "CREWTHER, Chris",
+      "party": "Liberal"
+    }
+  },
+  {
+    "id": "morwell",
+    "name": "Morwell",
+    "region": "Eastern Victoria",
+    "candidates": [
+      {
+        "name": "CLARKE, Brendan",
+        "party": "Family First Victoria",
+        "position": 1
+      },
+      {
+        "name": "LUND, Tracie",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 2
+      },
+      {
+        "name": "HINE, Rochelle",
+        "party": "Australian Greens Victoria",
+        "position": 3
+      },
+      {
+        "name": "McPHEE, Ross",
+        "party": "Democratic Labour Party (DLP)",
+        "position": 4
+      },
+      {
+        "name": "CAMERON, Martin",
+        "party": "National Party of Australia - Victoria",
+        "position": 5
+      },
+      {
+        "name": "ACREMAN, Natalie",
+        "party": "Victorian Socialists",
+        "position": 6
+      },
+      {
+        "name": "MURPHY, Casey",
+        "party": "One Nation Victoria",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 45.58378215945078,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/morwell-district-results",
+      "winner": "CAMERON, Martin",
+      "party": "The Nationals"
+    }
+  },
+  {
+    "id": "mulgrave",
+    "name": "Mulgrave",
+    "region": "South-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "REBBECHI, Cody",
+        "party": "One Nation Victoria",
+        "position": 1
+      },
+      {
+        "name": "SCHOFIELD, Paul J",
+        "party": "Australian Greens Victoria",
+        "position": 2
+      },
+      {
+        "name": "TRAN, Charles",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 3
+      },
+      {
+        "name": "FOSTER, Eden",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 4
+      },
+      {
+        "name": "THEODOSSOPOULOU, Fotini",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 5
+      },
+      {
+        "name": "DOBRZYNSKI, Stewart",
+        "party": "Family First Victoria",
+        "position": 6
+      },
+      {
+        "name": "COOK, Ian",
+        "party": "Independent",
+        "position": 7
+      },
+      {
+        "name": "BUCHANAN, Connor",
+        "party": "Victorian Socialists",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 60.19860088558179,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/mulgrave-district-results",
+      "winner": "ANDREWS, Daniel",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "murray-plains",
+    "name": "Murray Plains",
+    "region": "Northern Victoria",
+    "candidates": [
+      {
+        "name": "COLLARD, Peita",
+        "party": "Animal Justice Party",
+        "position": 1
+      },
+      {
+        "name": "HOSKING, Brett",
+        "party": "National Party of Australia - Victoria",
+        "position": 2
+      },
+      {
+        "name": "MCDONALD, Ewan",
+        "party": "Family First Victoria",
+        "position": 3
+      },
+      {
+        "name": "SMITH, Garner",
+        "party": "One Nation Victoria",
+        "position": 4
+      },
+      {
+        "name": "GRUNDY, Christine",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 5
+      },
+      {
+        "name": "SANIF, Asyiqin",
+        "party": "Victorian Socialists",
+        "position": 6
+      },
+      {
+        "name": "COOK, Zoe",
+        "party": "Australian Greens Victoria",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 27.112457477714596,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/murray-plains-district-results",
+      "winner": "WALSH, Peter",
+      "party": "The Nationals"
+    }
+  },
+  {
+    "id": "narracan",
+    "name": "Narracan",
+    "region": "Eastern Victoria",
+    "candidates": [
+      {
+        "name": "DETHLEFS, Geoff",
+        "party": "Family First Victoria",
+        "position": 1
+      },
+      {
+        "name": "FARNHAM, Wayne",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 2
+      },
+      {
+        "name": "WEAVER, Alyssa",
+        "party": "Australian Greens Victoria",
+        "position": 3
+      },
+      {
+        "name": "PAGE, Moss",
+        "party": "Victorian Socialists",
+        "position": 4
+      },
+      {
+        "name": "LUCAS, Ben",
+        "party": "One Nation Victoria",
+        "position": 5
+      },
+      {
+        "name": "LANGLEY, Jannette",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 6
+      }
+    ],
+    "history": {
+      "labor": null,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/state-by-elections-timeline/narracan-district-supplementary-election-results",
+      "winner": "FARNHAM, Wayne",
+      "party": "Liberal"
+    }
+  },
+  {
+    "id": "narre-warren-north",
+    "name": "Narre Warren North",
+    "region": "South-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "NATHANIELSZ, Shemane",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 1
+      },
+      {
+        "name": "CRUTCHFIELD, Sebastian",
+        "party": "One Nation Victoria",
+        "position": 2
+      },
+      {
+        "name": "UTOYO, Joshua",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 3
+      },
+      {
+        "name": "EMMANUEL, Cristina",
+        "party": "Family First Victoria",
+        "position": 4
+      },
+      {
+        "name": "LEAHY, Martin",
+        "party": "Legalise Cannabis Victoria",
+        "position": 5
+      },
+      {
+        "name": "WILSON, Belinda",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 6
+      },
+      {
+        "name": "PERRY, Hayley",
+        "party": "Australian Greens Victoria",
+        "position": 7
+      },
+      {
+        "name": "McCRACKEN, Lachlan",
+        "party": "Victorian Socialists",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 59.16341381138258,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/narre-warren-north-district-results",
+      "winner": "WILSON, Belinda",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "narre-warren-south",
+    "name": "Narre Warren South",
+    "region": "South-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "McCRACKEN, Bailey",
+        "party": "Victorian Socialists",
+        "position": 1
+      },
+      {
+        "name": "CURRIE, Alan",
+        "party": "Family First Victoria",
+        "position": 2
+      },
+      {
+        "name": "HAMMOND, Trevor",
+        "party": "One Nation Victoria",
+        "position": 3
+      },
+      {
+        "name": "DENKER, Lydia",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 4
+      },
+      {
+        "name": "WATSON, Scott",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "NAMBU, Jill",
+        "party": "Australian Greens Victoria",
+        "position": 6
+      },
+      {
+        "name": "KOOMEN, Stefan",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 7
+      },
+      {
+        "name": "PETERSON, Norliah",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 58.49576320642406,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/narre-warren-south-district-results",
+      "winner": "MAAS, Gary",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "nepean",
+    "name": "Nepean",
+    "region": "Eastern Victoria",
+    "candidates": [
+      {
+        "name": "HEALY, Sianan",
+        "party": "Australian Greens Victoria",
+        "position": 1
+      },
+      {
+        "name": "SNOWBALL, Surbhi",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 2
+      },
+      {
+        "name": "CHAMPION, Tamara",
+        "party": "Animal Justice Party",
+        "position": 3
+      },
+      {
+        "name": "HERCUS, Darren",
+        "party": "One Nation Victoria",
+        "position": 4
+      },
+      {
+        "name": "ROBBINS, Kim",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "TOSCANO, Joseph",
+        "party": "Independent",
+        "position": 6
+      },
+      {
+        "name": "WILLCOCKS, Seth",
+        "party": "Victorian Socialists",
+        "position": 7
+      },
+      {
+        "name": "MARSH, Anthony",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 8
+      },
+      {
+        "name": "BROWN, Mike",
+        "party": "Family First Victoria",
+        "position": 9
+      }
+    ],
+    "history": {
+      "labor": 43.317893292159894,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/nepean-district-results",
+      "winner": "GROTH, Sam",
+      "party": "Liberal"
+    }
+  },
+  {
+    "id": "niddrie",
+    "name": "Niddrie",
+    "region": "Western Metropolitan",
+    "candidates": [
+      {
+        "name": "SFAMENI, Sam",
+        "party": "Independent",
+        "position": 1
+      },
+      {
+        "name": "CARROLL, Ben",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 2
+      },
+      {
+        "name": "THEODOROU, George",
+        "party": "Family First Victoria",
+        "position": 3
+      },
+      {
+        "name": "BYRNE, Samantha",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 4
+      },
+      {
+        "name": "METE, Domenic",
+        "party": "Democratic Labour Party (DLP)",
+        "position": 5
+      },
+      {
+        "name": "LAWS, Brendan",
+        "party": "Victorian Socialists",
+        "position": 6
+      },
+      {
+        "name": "HASELGROVE, Salomae",
+        "party": "Animal Justice Party",
+        "position": 7
+      },
+      {
+        "name": "TAVERNA, Jason",
+        "party": "One Nation Victoria",
+        "position": 8
+      },
+      {
+        "name": "NGUYEN, Lana",
+        "party": "Australian Greens Victoria",
+        "position": 9
+      },
+      {
+        "name": "CHITTEDI, Karthik Reddy",
+        "party": "The Republican Make Australia Great Again",
+        "position": 10
+      },
+      {
+        "name": "PATRIKEOS, Brett",
+        "party": "The West Party",
+        "position": 11
+      }
+    ],
+    "history": {
+      "labor": 56.69475877089153,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/niddrie-district-results",
+      "winner": "CARROLL, Ben",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "northcote",
+    "name": "Northcote",
+    "region": "Northern Metropolitan",
+    "candidates": [
+      {
+        "name": "CIMBARO, Richard",
+        "party": "Family First Victoria",
+        "position": 1
+      },
+      {
+        "name": "PENMAN, Jim",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 2
+      },
+      {
+        "name": "LARKIN, Kath",
+        "party": "Victorian Socialists",
+        "position": 3
+      },
+      {
+        "name": "PILLEY, Clive",
+        "party": "I'm Voting to Avoid the Fine ",
+        "position": 4
+      },
+      {
+        "name": "HILLMAN, Ian",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "BRADBURY, Christopher",
+        "party": "One Nation Victoria",
+        "position": 6
+      },
+      {
+        "name": "AWAD, Lynda",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 7
+      },
+      {
+        "name": "THEOPHANOUS, Kat",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 8
+      },
+      {
+        "name": "KAFEL, Hannah",
+        "party": "Free Palestine",
+        "position": 9
+      },
+      {
+        "name": "GOME, Campbell",
+        "party": "Australian Greens Victoria",
+        "position": 10
+      }
+    ],
+    "history": {
+      "labor": 81.70348482716571,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/northcote-district-results",
+      "winner": "THEOPHANOUS, Kat",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "oakleigh",
+    "name": "Oakleigh",
+    "region": "Southern Metropolitan",
+    "candidates": [
+      {
+        "name": "HSIEH, Hsiang-Han",
+        "party": "Australian Greens Victoria",
+        "position": 1
+      },
+      {
+        "name": "DIMOPOULOS, Steve",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 2
+      },
+      {
+        "name": "JUNG, Martin",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 3
+      },
+      {
+        "name": "CARTER, Brooke",
+        "party": "One Nation Victoria",
+        "position": 4
+      },
+      {
+        "name": "GRINTER, Matthew",
+        "party": "Family First Victoria",
+        "position": 5
+      },
+      {
+        "name": "BUGTER, Rowdy",
+        "party": "Victorian Socialists",
+        "position": 6
+      }
+    ],
+    "history": {
+      "labor": 63.48439990890458,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/oakleigh-district-results",
+      "winner": "DIMOPOULOS, Steve",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "ovens-valley",
+    "name": "Ovens Valley",
+    "region": "Northern Victoria",
+    "candidates": [
+      {
+        "name": "McCURDY, Tim",
+        "party": "National Party of Australia - Victoria",
+        "position": 1
+      },
+      {
+        "name": "FIDGE, Julian",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 2
+      },
+      {
+        "name": "MURPHY, Bronwyn",
+        "party": "Victorian Socialists",
+        "position": 3
+      },
+      {
+        "name": "ROUEL, James",
+        "party": "One Nation Victoria",
+        "position": 4
+      },
+      {
+        "name": "MANNING, Steve",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "NORTON-SMITH, Carol",
+        "party": "Family First Victoria",
+        "position": 6
+      },
+      {
+        "name": "SMITH, Jennifer",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 7
+      },
+      {
+        "name": "GILBERT, Benjamin",
+        "party": "Australian Greens Victoria",
+        "position": 8
+      },
+      {
+        "name": "LITCHFIELD, Sue",
+        "party": "Animal Justice Party",
+        "position": 9
+      }
+    ],
+    "history": {
+      "labor": 32.03391506402333,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/ovens-valley-district-results",
+      "winner": "McCURDY, Tim",
+      "party": "The Nationals"
+    }
+  },
+  {
+    "id": "pakenham",
+    "name": "Pakenham",
+    "region": "Eastern Victoria",
+    "candidates": [
+      {
+        "name": "HAMALAINEN, Jesse",
+        "party": "Democratic Labour Party (DLP)",
+        "position": 1
+      },
+      {
+        "name": "FRENCH, Raymond",
+        "party": "Independent",
+        "position": 2
+      },
+      {
+        "name": "HANDS, Kate",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 3
+      },
+      {
+        "name": "OGDEN, Lucas",
+        "party": "Independent",
+        "position": 4
+      },
+      {
+        "name": "GRIGG, Stephanie",
+        "party": "Victorian Socialists",
+        "position": 5
+      },
+      {
+        "name": "SOLIVEN, Alessandra",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 6
+      },
+      {
+        "name": "DYSON, Radmila",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 7
+      },
+      {
+        "name": "YAWARI, Nasser",
+        "party": "Australian Greens Victoria",
+        "position": 8
+      },
+      {
+        "name": "PICKERING, Warren",
+        "party": "One Nation Victoria",
+        "position": 9
+      },
+      {
+        "name": "DAVIES, Stephanie",
+        "party": "Independent",
+        "position": 10
+      }
+    ],
+    "history": {
+      "labor": 50.39493657858852,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/pakenham-district-results",
+      "winner": "VULIN, Emma",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "pascoe-vale",
+    "name": "Pascoe Vale",
+    "region": "Northern Metropolitan",
+    "candidates": [
+      {
+        "name": "HICKEY, Amanda",
+        "party": "Free Palestine",
+        "position": 1
+      },
+      {
+        "name": "LAWRENCE, Stuart",
+        "party": "Climate Action Now",
+        "position": 2
+      },
+      {
+        "name": "CIANFLONE, Anthony",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 3
+      },
+      {
+        "name": "GANCI, Rosemarie Pauline",
+        "party": "One Nation Victoria",
+        "position": 4
+      },
+      {
+        "name": "PANOPOULOS, Angelica",
+        "party": "Australian Greens Victoria",
+        "position": 5
+      },
+      {
+        "name": "ASHTON, Kathrine",
+        "party": "Family First Victoria",
+        "position": 6
+      },
+      {
+        "name": "ANDREWARTHA, Jacob",
+        "party": "Socialist Alliance",
+        "position": 7
+      },
+      {
+        "name": "HAUPT, Kerry",
+        "party": "I'm Voting to Avoid the Fine ",
+        "position": 8
+      },
+      {
+        "name": "SHAMSILI, Yasemin",
+        "party": "Victorian Socialists",
+        "position": 9
+      },
+      {
+        "name": "TAGGAR, Rohit",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 10
+      }
+    ],
+    "history": {
+      "labor": 72.246914806446,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/pascoe-vale-district-results",
+      "winner": "CIANFLONE, Anthony",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "point-cook",
+    "name": "Point Cook",
+    "region": "Western Metropolitan",
+    "candidates": [
+      {
+        "name": "LAINE, Taylor",
+        "party": "Victorian Socialists",
+        "position": 1
+      },
+      {
+        "name": "GRECH, Mark",
+        "party": "The West Party",
+        "position": 2
+      },
+      {
+        "name": "KELLY, Paul",
+        "party": "Democratic Labour Party (DLP)",
+        "position": 3
+      },
+      {
+        "name": "HILAKARI, Mathew",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 4
+      },
+      {
+        "name": "ALLE, Kirti",
+        "party": "The Republican Make Australia Great Again",
+        "position": 5
+      },
+      {
+        "name": "KRISHNA PANDI, Ponraj",
+        "party": "Australian Greens Victoria",
+        "position": 6
+      },
+      {
+        "name": "MEURE, Keith",
+        "party": "Family First Victoria",
+        "position": 7
+      },
+      {
+        "name": "REDDY, Raja",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 8
+      },
+      {
+        "name": "REID, Cameron",
+        "party": "One Nation Victoria",
+        "position": 9
+      }
+    ],
+    "history": {
+      "labor": 58.33908795621371,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/point-cook-district-results",
+      "winner": "HILAKARI, Mathew",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "polwarth",
+    "name": "Polwarth",
+    "region": "Western Victoria",
+    "candidates": [
+      {
+        "name": "TOLLEY, Lula",
+        "party": "Victorian Socialists",
+        "position": 1
+      },
+      {
+        "name": "RIORDAN, Richard",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 2
+      },
+      {
+        "name": "HUSSEIN, Hutch",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 3
+      },
+      {
+        "name": "HOLDEN, Jesse",
+        "party": "Australian Greens Victoria",
+        "position": 4
+      },
+      {
+        "name": "CARBINS, Brenton",
+        "party": "Australian Citizens Party (Victorian Division)",
+        "position": 5
+      },
+      {
+        "name": "MALCOLM, Anna",
+        "party": "One Nation Victoria",
+        "position": 6
+      },
+      {
+        "name": "COLLA, Vince",
+        "party": "Family First Victoria",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 48.21312116864484,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/polwarth-district-results",
+      "winner": "RIORDAN, Richard",
+      "party": "Liberal"
+    }
+  },
+  {
+    "id": "prahran",
+    "name": "Prahran",
+    "region": "Southern Metropolitan",
+    "candidates": [
+      {
+        "name": "FINNIGAN, Tosh-Jake",
+        "party": "Independent",
+        "position": 1
+      },
+      {
+        "name": "O'NEILL, G. Daniel",
+        "party": "Animal Justice Party",
+        "position": 2
+      },
+      {
+        "name": "LEETON WATTS, George",
+        "party": "Independent",
+        "position": 3
+      },
+      {
+        "name": "WESTAWAY, Rachel",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 4
+      },
+      {
+        "name": "MENADUE, Alan",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "WONG, Nicholas",
+        "party": "Climate Action Now",
+        "position": 6
+      },
+      {
+        "name": "JONES, Daniel",
+        "party": "Free Palestine",
+        "position": 7
+      },
+      {
+        "name": "DICKS, Max",
+        "party": "Independent",
+        "position": 8
+      },
+      {
+        "name": "DOUEIHI, Clayton",
+        "party": "Victorian Socialists",
+        "position": 9
+      },
+      {
+        "name": "JONAS, Morgan",
+        "party": "Safety Victoria – Violent Crime Prevention",
+        "position": 10
+      },
+      {
+        "name": "VIRSU, Shaun",
+        "party": "One Nation Victoria",
+        "position": 11
+      },
+      {
+        "name": "HOPPER, Meghan",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 12
+      },
+      {
+        "name": "DI CAMILLO, Angelica",
+        "party": "Australian Greens Victoria",
+        "position": 13
+      }
+    ],
+    "history": {
+      "labor": 61.070764212725834,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/prahran-district-results",
+      "winner": "HIBBINS, Sam",
+      "party": "Australian Greens"
+    }
+  },
+  {
+    "id": "preston",
+    "name": "Preston",
+    "region": "Northern Metropolitan",
+    "candidates": [
+      {
+        "name": "DATE, Tim",
+        "party": "I'm Voting to Avoid the Fine ",
+        "position": 1
+      },
+      {
+        "name": "CHIN, Zheng",
+        "party": "Independent",
+        "position": 2
+      },
+      {
+        "name": "AL KATRANJI, Hamza",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 3
+      },
+      {
+        "name": "VALENCIA, Julio",
+        "party": "Family First Victoria",
+        "position": 4
+      },
+      {
+        "name": "FOWLES, William",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "SANGARYA, Loki",
+        "party": "Australian Greens Victoria",
+        "position": 6
+      },
+      {
+        "name": "ASHMORE, Serena",
+        "party": "Victorian Socialists",
+        "position": 7
+      },
+      {
+        "name": "BRYANT, Mark",
+        "party": "Free Palestine",
+        "position": 8
+      },
+      {
+        "name": "GUARDIANI, Franco",
+        "party": "One Nation Victoria",
+        "position": 9
+      },
+      {
+        "name": "DOWER, Simon",
+        "party": "Climate Action Now",
+        "position": 10
+      },
+      {
+        "name": "LAMBERT, Nathan",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 11
+      }
+    ],
+    "history": {
+      "labor": 69.67157588378453,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/preston-district-results",
+      "winner": "LAMBERT, Nathan",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "richmond",
+    "name": "Richmond",
+    "region": "Northern Metropolitan",
+    "candidates": [
+      {
+        "name": "RINDFLEISH, Harrison",
+        "party": "One Nation Victoria",
+        "position": 1
+      },
+      {
+        "name": "APONSO, Charles",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 2
+      },
+      {
+        "name": "DITE, Chris",
+        "party": "Victorian Socialists",
+        "position": 3
+      },
+      {
+        "name": "MCKENZIE, Sarah",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 4
+      },
+      {
+        "name": "MAYNARD, Christine",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "GRAY, Bernadette",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 6
+      },
+      {
+        "name": "PEAD-PHILIPSON, Jack",
+        "party": "Australian Democrats",
+        "position": 7
+      },
+      {
+        "name": "de VIETRI, Gabrielle",
+        "party": "Australian Greens Victoria",
+        "position": 8
+      },
+      {
+        "name": "MEYER, David",
+        "party": "Independent",
+        "position": 9
+      }
+    ],
+    "history": {
+      "labor": 74.12599733205809,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/richmond-district-results",
+      "winner": "DE VIETRI, Gabrielle",
+      "party": "Australian Greens"
+    }
+  },
+  {
+    "id": "ringwood",
+    "name": "Ringwood",
+    "region": "North-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "HALSE, Rachel",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 1
+      },
+      {
+        "name": "McGOWAN, Nick",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 2
+      },
+      {
+        "name": "NORTON, Christopher William",
+        "party": "Democratic Labour Party (DLP)",
+        "position": 3
+      },
+      {
+        "name": "HUANG, Elaine",
+        "party": "Family First Victoria",
+        "position": 4
+      },
+      {
+        "name": "CUTTS, Prue",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "MILLS, Amy",
+        "party": "Australian Greens Victoria",
+        "position": 6
+      },
+      {
+        "name": "O'CONNOR, John",
+        "party": "One Nation Victoria",
+        "position": 7
+      },
+      {
+        "name": "WALKER, Lyndon",
+        "party": "Animal Justice Party",
+        "position": 8
+      },
+      {
+        "name": "GARDNER, Jack",
+        "party": "Victorian Socialists",
+        "position": 9
+      }
+    ],
+    "history": {
+      "labor": 57.53065372762441,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/ringwood-district-results",
+      "winner": "FOWLES, Will",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "ripon",
+    "name": "Ripon",
+    "region": "Western Victoria",
+    "candidates": [
+      {
+        "name": "WOJTKOWSKI, Krzysztof",
+        "party": "Shooters, Fishers and Farmers Party Victoria",
+        "position": 1
+      },
+      {
+        "name": "QUINCE, Bernard",
+        "party": "Independent",
+        "position": 2
+      },
+      {
+        "name": "MCGRATH, Mark",
+        "party": "Family First Victoria",
+        "position": 3
+      },
+      {
+        "name": "SKRUZNY, Ronald",
+        "party": "Democratic Labour Party (DLP)",
+        "position": 4
+      },
+      {
+        "name": "BRENNAN-JONES, Taylah",
+        "party": "Victorian Socialists",
+        "position": 5
+      },
+      {
+        "name": "BARRY, Jeff",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 6
+      },
+      {
+        "name": "ANDREI, Trevor Scott",
+        "party": "Independent",
+        "position": 7
+      },
+      {
+        "name": "HAYLETT, Martha",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 8
+      },
+      {
+        "name": "DRYLIE, Tim",
+        "party": "Australian Greens Victoria",
+        "position": 9
+      },
+      {
+        "name": "BUXTON, Donna",
+        "party": "One Nation Victoria",
+        "position": 10
+      },
+      {
+        "name": "READ, Megan",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 11
+      },
+      {
+        "name": "ARMSTRONG, Jo",
+        "party": "National Party of Australia - Victoria",
+        "position": 12
+      }
+    ],
+    "history": {
+      "labor": 52.99355234878723,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/ripon-district-results",
+      "winner": "HAYLETT, Martha",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "rowville",
+    "name": "Rowville",
+    "region": "South-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "MASSEY, David",
+        "party": "Australian Greens Victoria",
+        "position": 1
+      },
+      {
+        "name": "WILLIAMS, Max",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 2
+      },
+      {
+        "name": "DOBRZYNSKI, Fiona",
+        "party": "Family First Victoria",
+        "position": 3
+      },
+      {
+        "name": "SHAHBAZ, Muhammad",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 4
+      },
+      {
+        "name": "WATT, Bradley",
+        "party": "One Nation Victoria",
+        "position": 5
+      },
+      {
+        "name": "ROBSON, Scott",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 6
+      },
+      {
+        "name": "HIEMSTRA, Lars",
+        "party": "Victorian Socialists",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 46.33493970347483,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/rowville-district-results",
+      "winner": "WELLS, Kim",
+      "party": "Liberal"
+    }
+  },
+  {
+    "id": "sandringham",
+    "name": "Sandringham",
+    "region": "Southern Metropolitan",
+    "candidates": [
+      {
+        "name": "STEVENSON, Lauren",
+        "party": "Victorian Socialists",
+        "position": 1
+      },
+      {
+        "name": "FOTAKIS, Timon",
+        "party": "Australian Greens Victoria",
+        "position": 2
+      },
+      {
+        "name": "ROWSWELL, Brad",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 3
+      },
+      {
+        "name": "SAGRIS-DESMOND, Anastasia",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 4
+      },
+      {
+        "name": "BLIGHT, Anthony",
+        "party": "One Nation Victoria",
+        "position": 5
+      }
+    ],
+    "history": {
+      "labor": 44.850424719931056,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/sandringham-district-results",
+      "winner": "ROWSWELL, Brad",
+      "party": "Liberal"
+    }
+  },
+  {
+    "id": "shepparton",
+    "name": "Shepparton",
+    "region": "Northern Victoria",
+    "candidates": [
+      {
+        "name": "SALI, Shane",
+        "party": "National Party of Australia - Victoria",
+        "position": 1
+      },
+      {
+        "name": "WHITE, Alison",
+        "party": "Family First Victoria",
+        "position": 2
+      },
+      {
+        "name": "VERNEY, Grace",
+        "party": "Australian Greens Victoria",
+        "position": 3
+      },
+      {
+        "name": "HOCKING, Karen",
+        "party": "Victorian Socialists",
+        "position": 4
+      },
+      {
+        "name": "COSTA, Lou",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "FIN, Cayla",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 6
+      },
+      {
+        "name": "BRYANT, Phillip",
+        "party": "One Nation Victoria",
+        "position": 7
+      },
+      {
+        "name": "MURPHY-GINGER, Faith",
+        "party": "Animal Justice Party",
+        "position": 8
+      },
+      {
+        "name": "VARKEY, Johnson",
+        "party": "Independent",
+        "position": 9
+      }
+    ],
+    "history": {
+      "labor": 25.65797438318685,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/shepparton-district-results",
+      "winner": "O&#39;KEEFFE, Kim",
+      "party": "The Nationals"
+    }
+  },
+  {
+    "id": "south-barwon",
+    "name": "South Barwon",
+    "region": "Western Victoria",
+    "candidates": [
+      {
+        "name": "THISTLETON, Rebecca",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 1
+      },
+      {
+        "name": "NELSON, Ron",
+        "party": "Independent",
+        "position": 2
+      },
+      {
+        "name": "BARRON, Alan",
+        "party": "Family First Victoria",
+        "position": 3
+      },
+      {
+        "name": "HEDLEY, Freya",
+        "party": "Socialist Alliance",
+        "position": 4
+      },
+      {
+        "name": "GORMAN, Madilyn",
+        "party": "Victorian Socialists",
+        "position": 5
+      },
+      {
+        "name": "GEARD, Josh",
+        "party": "One Nation Victoria",
+        "position": 6
+      },
+      {
+        "name": "SCHERRER, Izzy",
+        "party": "Australian Greens Victoria",
+        "position": 7
+      },
+      {
+        "name": "PETTIT, Libby",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 59.79992917847026,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/south-barwon-district-results",
+      "winner": "CHEESEMAN, Darren",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "south-west-coast",
+    "name": "South-West Coast",
+    "region": "Western Victoria",
+    "candidates": [
+      {
+        "name": "BUCHAN, Tamhas",
+        "party": "Family First Victoria",
+        "position": 1
+      },
+      {
+        "name": "HUGHES, Richard",
+        "party": "One Nation Victoria",
+        "position": 2
+      },
+      {
+        "name": "GOVANSTONE, Andrew",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 3
+      },
+      {
+        "name": "WATTS, Silver Rose",
+        "party": "Australian Greens Victoria",
+        "position": 4
+      },
+      {
+        "name": "BRITNELL, Roma",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 5
+      },
+      {
+        "name": "SHEPPARD, Hera",
+        "party": "Victorian Socialists",
+        "position": 6
+      }
+    ],
+    "history": {
+      "labor": 41.95094074204326,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/south-west-coast-district-results",
+      "winner": "BRITNELL, Roma",
+      "party": "Liberal"
+    }
+  },
+  {
+    "id": "st-albans",
+    "name": "St Albans",
+    "region": "Western Metropolitan",
+    "candidates": [
+      {
+        "name": "WALKER, Luân",
+        "party": "The West Party",
+        "position": 1
+      },
+      {
+        "name": "HUYNH, Thuc Bao",
+        "party": "Australian Greens Victoria",
+        "position": 2
+      },
+      {
+        "name": "NGUYEN, Leanna",
+        "party": "Victorian Socialists",
+        "position": 3
+      },
+      {
+        "name": "SULEYMAN, Natalie",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 4
+      },
+      {
+        "name": "DUNSTAN, Rob",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 5
+      },
+      {
+        "name": "JANTEN, Kerry",
+        "party": "Independent",
+        "position": 6
+      },
+      {
+        "name": "HAKIZIMANA, Alex",
+        "party": "Family First Victoria",
+        "position": 7
+      },
+      {
+        "name": "COWELL, John",
+        "party": "One Nation Victoria",
+        "position": 8
+      },
+      {
+        "name": "DAVINDER KAUR",
+        "party": "The Republican Make Australia Great Again",
+        "position": 9
+      }
+    ],
+    "history": {
+      "labor": 59.564340911636236,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/st-albans-district-results",
+      "winner": "SULEYMAN, Natalie",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "sunbury",
+    "name": "Sunbury",
+    "region": "Western Metropolitan",
+    "candidates": [
+      {
+        "name": "BREMNER, Adam",
+        "party": "Victorian Socialists",
+        "position": 1
+      },
+      {
+        "name": "DABROWSKI, Elita",
+        "party": "One Nation Victoria",
+        "position": 2
+      },
+      {
+        "name": "VINE, Geoff",
+        "party": "The West Party",
+        "position": 3
+      },
+      {
+        "name": "COTTOM, Simmone",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 4
+      },
+      {
+        "name": "BULL, Josh",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 5
+      },
+      {
+        "name": "MOHR, Rohanna",
+        "party": "Animal Justice Party",
+        "position": 6
+      },
+      {
+        "name": "BETHI, Bhasker Reddy",
+        "party": "The Republican Make Australia Great Again",
+        "position": 7
+      },
+      {
+        "name": "STAFFORD, John",
+        "party": "Democratic Labour Party (DLP)",
+        "position": 8
+      },
+      {
+        "name": "MEDCRAFT, Steve Jack",
+        "party": "Independent",
+        "position": 9
+      },
+      {
+        "name": "GRANGER-BROWN, Lauren",
+        "party": "Australian Greens Victoria",
+        "position": 10
+      },
+      {
+        "name": "BATRES, Elmer",
+        "party": "Family First Victoria",
+        "position": 11
+      }
+    ],
+    "history": {
+      "labor": 56.412772503049915,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/sunbury-district-results",
+      "winner": "BULL, Josh",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "sydenham",
+    "name": "Sydenham",
+    "region": "Western Metropolitan",
+    "candidates": [
+      {
+        "name": "VANDENBERG, Ashleigh",
+        "party": "Independent",
+        "position": 1
+      },
+      {
+        "name": "CROES, Nancy G",
+        "party": "Family First Victoria",
+        "position": 2
+      },
+      {
+        "name": "LANKALA KENDERLA, Laxmi",
+        "party": "The Republican Make Australia Great Again",
+        "position": 3
+      },
+      {
+        "name": "LANCASHIRE, Bruce",
+        "party": "The West Party",
+        "position": 4
+      },
+      {
+        "name": "KERR, Maria",
+        "party": "Independent",
+        "position": 5
+      },
+      {
+        "name": "BAUCH, Joh",
+        "party": "One Nation Victoria",
+        "position": 6
+      },
+      {
+        "name": "MOUSSI, Nathalie",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 7
+      },
+      {
+        "name": "SINCLAIR, Brandon",
+        "party": "Democratic Labour Party (DLP)",
+        "position": 8
+      },
+      {
+        "name": "POON, Bruce",
+        "party": "Animal Justice Party",
+        "position": 9
+      },
+      {
+        "name": "RASIC, Uros",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 10
+      },
+      {
+        "name": "JANE, Maggie",
+        "party": "Australian Greens Victoria",
+        "position": 11
+      },
+      {
+        "name": "KHAN, Shania",
+        "party": "Victorian Socialists",
+        "position": 12
+      }
+    ],
+    "history": {
+      "labor": 58.7275879374059,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/sydenham-district-results",
+      "winner": "HUTCHINS, Natalie",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "tarneit",
+    "name": "Tarneit",
+    "region": "Western Metropolitan",
+    "candidates": [
+      {
+        "name": "MOINUDDIN, Aijaz",
+        "party": "Independent",
+        "position": 1
+      },
+      {
+        "name": "WIGHT, Dylan",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 2
+      },
+      {
+        "name": "ISLAM, SM Zaberul",
+        "party": "Independent",
+        "position": 3
+      },
+      {
+        "name": "ELSBURY, Andrew",
+        "party": "The West Party",
+        "position": 4
+      },
+      {
+        "name": "VAN KEULEN, Leah",
+        "party": "Victorian Socialists",
+        "position": 5
+      },
+      {
+        "name": "NIYONGABIRE, Horizana",
+        "party": "Family First Victoria",
+        "position": 6
+      },
+      {
+        "name": "AHMED, Rahima Ibrahim",
+        "party": "Independent",
+        "position": 7
+      },
+      {
+        "name": "RAHN, Maurita",
+        "party": "Animal Justice Party",
+        "position": 8
+      },
+      {
+        "name": "VILLAGONZALO, Walter",
+        "party": "One Nation Victoria",
+        "position": 9
+      },
+      {
+        "name": "RIFAI, A. Raheem",
+        "party": "Australian Greens Victoria",
+        "position": 10
+      },
+      {
+        "name": "UPPARLAPALLE, Venkat Ram",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 11
+      },
+      {
+        "name": "SUDHAGANI, Sindhu",
+        "party": "The Republican Make Australia Great Again",
+        "position": 12
+      }
+    ],
+    "history": {
+      "labor": 62.577802822673604,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/tarneit-district-results",
+      "winner": "WIGHT, Dylan",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "thomastown",
+    "name": "Thomastown",
+    "region": "Northern Metropolitan",
+    "candidates": [
+      {
+        "name": "RANCIE, Rob",
+        "party": "Family First Victoria",
+        "position": 1
+      },
+      {
+        "name": "STOJCEVSKI, Belinda",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 2
+      },
+      {
+        "name": "ANTHONY, Nadia",
+        "party": "One Nation Victoria",
+        "position": 3
+      },
+      {
+        "name": "REDDY, Priya",
+        "party": "Victorian Socialists",
+        "position": 4
+      },
+      {
+        "name": "HALFPENNY, Bronwyn",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 5
+      },
+      {
+        "name": "TREWELLA, Gavin",
+        "party": "Australian Greens Victoria",
+        "position": 6
+      }
+    ],
+    "history": {
+      "labor": 65.99577121751466,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/thomastown-district-results",
+      "winner": "HALFPENNY, Bronwyn",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "warrandyte",
+    "name": "Warrandyte",
+    "region": "North-Eastern Metropolitan",
+    "candidates": [
+      {
+        "name": "STANLEY, John",
+        "party": "Victorian Socialists",
+        "position": 1
+      },
+      {
+        "name": "WERNER, Nicole",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 2
+      },
+      {
+        "name": "PATERSON, Rebecca",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 3
+      },
+      {
+        "name": "SCHWAB, Caleb",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 4
+      },
+      {
+        "name": "MURADIAN, Vanessa",
+        "party": "Australian Greens Victoria",
+        "position": 5
+      },
+      {
+        "name": "BURNSIDE, Mark",
+        "party": "One Nation Victoria",
+        "position": 6
+      }
+    ],
+    "history": {
+      "labor": 45.84996009577015,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/warrandyte-district-results",
+      "winner": "SMITH, Ryan",
+      "party": "Liberal"
+    }
+  },
+  {
+    "id": "wendouree",
+    "name": "Wendouree",
+    "region": "Western Victoria",
+    "candidates": [
+      {
+        "name": "ADDISON, Juliana",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 1
+      },
+      {
+        "name": "ROBINSON, Stuart",
+        "party": "One Nation Victoria",
+        "position": 2
+      },
+      {
+        "name": "BYRNE, Ruth",
+        "party": "Family First Victoria",
+        "position": 3
+      },
+      {
+        "name": "MEAGHER, Chris",
+        "party": "Victorian Socialists",
+        "position": 4
+      },
+      {
+        "name": "RONAN, Gav",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 5
+      },
+      {
+        "name": "COLLINS, Melissa",
+        "party": "Animal Justice Party",
+        "position": 6
+      },
+      {
+        "name": "BURNS, Ellen",
+        "party": "Australian Greens Victoria",
+        "position": 7
+      }
+    ],
+    "history": {
+      "labor": 63.46122024442711,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/wendouree-district-results",
+      "winner": "ADDISON, Juliana",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "werribee",
+    "name": "Werribee",
+    "region": "Western Metropolitan",
+    "candidates": [
+      {
+        "name": "HOPPER, Paul",
+        "party": "The West Party",
+        "position": 1
+      },
+      {
+        "name": "KUMAR, Tushar",
+        "party": "Australian Greens Victoria",
+        "position": 2
+      },
+      {
+        "name": "PATERAS, Paul",
+        "party": "One Nation Victoria",
+        "position": 3
+      },
+      {
+        "name": "CLARK, Reece",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 4
+      },
+      {
+        "name": "EMERSON, Matt",
+        "party": "Family First Victoria",
+        "position": 5
+      },
+      {
+        "name": "LISTER, John",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 6
+      },
+      {
+        "name": "ORCHARD, Jeremy",
+        "party": "Democratic Labour Party (DLP)",
+        "position": 7
+      },
+      {
+        "name": "MUNRO, Sue",
+        "party": "Victorian Socialists",
+        "position": 8
+      },
+      {
+        "name": "RAIZADA, Monica Sharma",
+        "party": "Independent",
+        "position": 9
+      },
+      {
+        "name": "KAYAGURLA, Sandhya",
+        "party": "The Republican Make Australia Great Again",
+        "position": 10
+      }
+    ],
+    "history": {
+      "labor": 60.5012417008768,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/werribee-district-results",
+      "winner": "PALLAS, Tim",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "williamstown",
+    "name": "Williamstown",
+    "region": "Western Metropolitan",
+    "candidates": [
+      {
+        "name": "MARTIN, Oskar",
+        "party": "Victorian Socialists",
+        "position": 1
+      },
+      {
+        "name": "HOCKING, Ben",
+        "party": "Australian Greens Victoria",
+        "position": 2
+      },
+      {
+        "name": "O'REGAN, Bruce",
+        "party": "Family First Victoria",
+        "position": 3
+      },
+      {
+        "name": "LOUGHNAN, Catherine",
+        "party": "One Nation Victoria",
+        "position": 4
+      },
+      {
+        "name": "YARRA, Sagar Reddy",
+        "party": "The Republican Make Australia Great Again",
+        "position": 5
+      },
+      {
+        "name": "GANNON, Gill",
+        "party": "The West Party",
+        "position": 6
+      },
+      {
+        "name": "HORNE, Melissa",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 7
+      },
+      {
+        "name": "BRIFFA, Tony",
+        "party": "Independent",
+        "position": 8
+      },
+      {
+        "name": "LINDEMANN, Paul",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 9
+      }
+    ],
+    "history": {
+      "labor": 63.44229486324217,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/williamstown-district-results",
+      "winner": "HORNE, Melissa",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  },
+  {
+    "id": "yan-yean",
+    "name": "Yan Yean",
+    "region": "Northern Victoria",
+    "candidates": [
+      {
+        "name": "KATHAGE, Lauren",
+        "party": "Australian Labor Party - Victorian Branch",
+        "position": 1
+      },
+      {
+        "name": "JOHNSON, Jeremy",
+        "party": "One Nation Victoria",
+        "position": 2
+      },
+      {
+        "name": "BELL, Andrew",
+        "party": "Victorian Socialists",
+        "position": 3
+      },
+      {
+        "name": "HALL, James",
+        "party": "Family First Victoria",
+        "position": 4
+      },
+      {
+        "name": "OKATAN, Sinan",
+        "party": "Animal Justice Party",
+        "position": 5
+      },
+      {
+        "name": "DOW, Amanda",
+        "party": "Liberal Party of Australia - Victorian Division",
+        "position": 6
+      },
+      {
+        "name": "MOHAMMED, Gufran",
+        "party": "Australian Greens Victoria",
+        "position": 7
+      },
+      {
+        "name": "CHEERS, Troy",
+        "party": "Libertarian Party (formerly Liberal Democrats)",
+        "position": 8
+      }
+    ],
+    "history": {
+      "labor": 54.45046047970853,
+      "url": "https://www.vec.vic.gov.au/results/state-election-results/2022-state-election-results/results-by-district/yan-yean-district-results",
+      "winner": "KATHAGE, Lauren",
+      "party": "Australian Labor Party - Victorian Branch"
+    }
+  }
+]
